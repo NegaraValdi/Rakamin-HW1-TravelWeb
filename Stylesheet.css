@@ -1,0 +1,158 @@
+body{
+    background-color: #ebe9e9;
+    margin: 0rem;
+}
+
+nav.navbar{
+    height: 6.25rem;
+    background: none;
+    box-shadow: none;
+    border: none;
+    padding-top: 1.5rem;
+    padding-left: 1.875rem;
+    padding-right: 4.6875rem;
+}
+
+.navbar a.navbar-brand img{
+    height: 6.8rem;
+    margin-top: -0.25rem;
+}
+
+.navbar-nav > li > a {
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
+    font-family: Verdana;
+}
+
+.btn img {
+    height: 1rem;
+    border: none;
+}
+
+#background {
+    margin-top: 0rem;
+    background: url(Images/MainBackground.jpg) no-repeat;
+    background-size: cover;
+    padding-top: 6.9375rem;
+    height: 40rem;
+    max-height: 70rem;
+}
+
+#background .Banner {
+    background: none;
+    margin-left: 8.5625rem;
+    max-width: 62.5rem;
+    margin-top: 1.375rem;
+}
+
+#background .Banner h1{
+    font-family: monospace;
+    color: black;
+    margin-bottom: -0.75rem;
+    margin-top: 1rem;
+}
+
+#background .Banner p{
+    font-family: georgia;
+    color: black;
+    margin-bottom: -0.75rem;
+    margin-top: 1.6875rem;
+    padding-right: 19.1875rem;
+}
+
+#background .Banner a{
+    font-family: Georgia;
+    margin-top: 1.25rem;
+}
+#home {
+    text-align: center;
+    background-color: gainsboro;
+    padding: -2rem;
+}
+
+#home .container h1{
+    margin: 2.25rem;
+}
+
+#home .container.row {
+    margin: -0.1875rem;
+}
+
+#home .isi .container .atas {
+    background-color: #f9f8f8;
+    margin-top: -5.3125rem;
+    padding-bottom: 2.3125;
+}
+
+.Destination {
+    height: 16rem;
+    background-size: cover;
+    margin-bottom: 1rem;
+}
+
+.container.bawah .h1 {
+    padding-bottom: 1.275rem;
+}
+
+
+.container.bawah {
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+
+#news {
+    text-align: center;
+    margin-top: 1.9375rem;
+    background-color: #f9f8f8;
+    padding-top: 2.6875rem;
+    padding-bottom: 1.8rem;
+}
+
+#news .thumbnail .gambarberita {
+    height: 16rem;
+    background-size: cover;
+}
+
+#news .btn {
+    border: solid;
+    background-color: #f9f8f8;
+}
+
+#gallery {
+    padding-top: 2rem;
+}
+
+#gallery .container h1{
+    text-align: center;
+    font-family: georgia;
+    margin-bottom: 2.375rem;
+}
+
+#Gallery .gallery .gambargaleri {
+    height: 16rem;
+    background-size: cover;
+    margin-bottom: 1rem;
+}
+
+#ContactUs {
+    background-color: rgb(123, 147, 166);
+    margin-top: 4rem;
+    color: white;
+}
+
+
+#ContactUs .container{
+    width: 1005;
+    padding: 3.4375rem;
+}
+
+#ContactUs .container .subs .col-lg-6 col-md-6 col-sm-12 col-xs-12 {
+font-family: georgia;
+color: #eee;
+}
+
+#footer {
+    color: rgb(40, 78, 94);
+    background-color: #0f1517;
+}
